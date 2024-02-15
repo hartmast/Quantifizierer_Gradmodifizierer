@@ -1,4 +1,3 @@
-# Supplementary material for Neels, Ungerer & Hartmann (under review)
+# Begleitmaterial zu Neels et al. (2024)
 
-Supplementary material for the paper "A quantum of salience: Reconsidering the role of extravagance in grammaticalisation
-". Markdown file available [here](https://hartmast.github.io/degreemodifiers/).
+Begleitmaterial zum Aufsatz "Doch Quantität vor Qualität? Motivationen und Mechanismen des Wandels in einer konstruktionalen Großfamilie deutscher Quantifizierer und Gradmodifizierer". Der Aufsatz knüpft an Neels et al. (2023) an und baut auf den gleichen Daten auf. Das Begleitmaterial zu Neels et al. (2023) ist [hier](https://osf.io/q9uk4/) (OSF) sowie [hier](https://hartmast.github.io/degreemodifiers/) (Github) zu finden.
