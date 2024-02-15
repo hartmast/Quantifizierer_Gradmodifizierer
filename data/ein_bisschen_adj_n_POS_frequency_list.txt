@@ -1,0 +1,37 @@
+# Frequency list
+
+# Corpus: decow16b
+# Query:  "[eE]in" "[bB]i(ss|ß)chen" [tag="ADJ.*|N.*"] 548922
+
+# Frequency limit: 0
+
+
+POS tag (STTS)	Frequency	
+-------------------------------------------------------
+ART PIAT NN	248136	
+ART ADV ADJD	163392	
+ART PIS ADJD	93138	
+ART ADV ADJA	31842	
+ART PIAT NE	8946	
+ART NN NN	1401	
+ART NN ADJD	1290	
+CARD ADV ADJD	267	
+ART NN NE	130	
+ART NN ADJA	107	
+ART PIAT ADJA	83	
+PTKVZ ADV ADJD	40	
+_ _ NN	39	
+_ _ NE	21	
+_ _ ADJD	21	
+_ PIAT NN	15	
+CARD ADV NE	14	
+_ _ ADJA	11	
+_ ADV ADJD	10	
+PTKVZ ADV NE	8	
+VVIMP ADV NE	4	
+PTKVZ PIAT NN	3	
+_ PIAT ADJA	1	
+_ ADV NE	1	
+PTKVZ PIAT ADJA	1	
+CARD NN ADJD	1	
+
